@@ -9,6 +9,9 @@ numpy = "*"
 scikit-image = "*"
 scipy = "*"
 jupyterlab = "*"
+matplotlib = "*"
+xlrd = "*"
+openpyxl = "*"
 
 [dev-packages]
 
